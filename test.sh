@@ -1,4 +1,4 @@
-if cmd
+if cmd && cmd2
 then
    instructions;
 elif cmd
